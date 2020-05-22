@@ -1,0 +1,30 @@
+[
+    {
+        "name": "_kt",
+        "age": "19",
+        "height": "166",
+        "gender": "Female",
+        "origin": "Indian"
+    },
+    {
+        "name": "Chirag Mathur",
+        "age": "19",
+        "height": "177",
+        "gender": "Male",
+        "origin": "Indian"
+    },
+    {
+        "name": "Vikkiwarrior",
+        "age": "18",
+        "height": "183",
+        "gender": "Male",
+        "origin": "Indian"
+    },
+    {
+        "name": "Vidit Shukla",
+        "age": "18",
+        "height": "174",
+        "gender": "Male",
+        "origin": "Indian"
+    }
+]
